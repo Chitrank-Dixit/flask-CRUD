@@ -1,0 +1,5 @@
+{
+  "name": "Flask API Frontend",
+  "description": "A frontend demonstration of a CRUD application with user authentication (login, sign-up, and mock OAuth), designed to interact with a Python Flask backend. It features a clean, responsive interface for managing data items.",
+  "requestFramePermissions": []
+}
